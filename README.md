@@ -1,5 +1,6 @@
 # Arno Heirman
 Hi I'm Arno
 
-linkedin.com/in/arnoheirman
-github.com/arnohe
+[linkedin](linkedin.com/in/arnoheirman)
+
+[github](github.com/arnohe)
