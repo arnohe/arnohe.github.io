@@ -6,9 +6,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Arno Heirman</title>
 
-{% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
-    <script src="https://kit.fontawesome.com/210067e73b.js" crossorigin="anonymous"></script>
+	<script src="https://kit.fontawesome.com/210067e73b.js" crossorigin="anonymous"></script>
     <!--[if lt IE 9]>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
@@ -18,18 +17,19 @@
     <div class="wrapper">
       <header>
         <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
-
-        {% if site.logo %}
-          <img src="{{site.logo | relative_url}}" alt="Logo" />
-        {% endif %}
-
-        <p>{{ site.description | default: site.github.project_tagline }}</p>
-
+		  
+		{% if site.logo %}<img src="{{site.logo | relative_url}}" alt="Logo" />{% endif %}
+		
+		<p class="view">
+		 Computer Vision Engineer<br>
+		<i class="fa-solid fa-location-dot"></i> Ostend - Belgium
+		</p>
+		  
         <p class="view">
-  			  <a href='m&#97;i&#108;t&#111;&#58;%6&#68;a&#105;%6C&#64;h%&#54;&#53;i&#37;7&#50;%6Dan&#46;d&#37;65&#118;'><i class="fa-regular fa-envelope"></i> mail&#64;hei&#114;man&#46;d&#101;v</a><br>
-  			  <a href=https://www.linkedin.com/in/arnoheirman/><i class="fa-brands fa-linkedin"></i> LinkedIn</a><br>
-  			  <a href="{{ site.github.owner_url }}"><i class="fa-brands fa-github"></i> GitHub</a>
-		    </p>
+			<a href="{{ site.github.owner_url }}"><i class="fa-brands fa-github"></i> GitHub</a><br>
+			<a href=https://www.linkedin.com/in/arnoheirman/><i class="fa-brands fa-linkedin"></i> LinkedIn</a><br>
+			<a href='m&#97;i&#108;t&#111;&#58;%6&#68;a&#105;%6C&#64;h%&#54;&#53;i&#37;7&#50;%6Dan&#46;d&#37;65&#118;'><i class="fa-regular fa-envelope"></i> mail&#64;hei&#114;man&#46;d&#101;v</a><br>
+		</p>
 
         {% if site.show_downloads %}
         <ul class="downloads">
@@ -45,10 +45,7 @@
 
       </section>
       <footer>
-        {% if site.github.is_project_page %}
-        <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
-        {% endif %}
-        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+        <p><small>Hosted on GitHub Pages with <a href="https://github.com/pages-themes/minimal"> Minimal theme</a></small></p>
       </footer>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
