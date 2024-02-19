@@ -6,7 +6,7 @@ layout: default
 
 # About Me
 
-Hi there! I’m Arno Heirman, an aspiring computer vision engineer who is fascinated by the intricacies of software and how it unlocks solutions that can make a real difference.
+Hi there! I’m Arno Heirman, an aspiring computer vision engineer who is fascinated by the intricacies of information technology and how it unlocks solutions that can make a real difference.
 
 Equipped with a strong foundation in Python (TensorFlow, OpenCV, NumPy) and machine learning principles honed through my Master’s research on melanoma detection, I’m eager to learn and contribute to innovative projects, particularly in fields with a impact on health and well-being.
 
