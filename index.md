@@ -6,9 +6,9 @@ layout: default
 
 # About Me
 
-Hi there! I’m Arno Heirman, an aspiring data & ai engineer who is fascinated by the intricacies of information technology.
+Hi there! I’m Arno Heirman, an aspiring data & ai engineer who is fascinated by the intricacies of technology and how it can make a real difference.
 
-Equipped with a strong foundation in Python (TensorFlow, OpenCV, NumPy) and machine learning principles honed through my Master’s research on melanoma detection, I’m eager to learn and contribute to innovative projects, particularly in fields with a impact on health and well-being.
+Equipped with a strong foundation in Python (TensorFlow, OpenCV, NumPy) and machine learning principles honed through my Master’s research on melanoma detection, I’m eager to learn and contribute to innovative projects.
 
 Beyond puzzles and problems, I find inspiration in the intricate details of nature. When I’m not tinkering with software projects, you’ll find me outdoors birdwatching, every sighting cultivates my focus and curiosity.
 
