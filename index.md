@@ -9,4 +9,4 @@ Equipped with a strong foundation in Python (TensorFlow, OpenCV, NumPy) and mach
 
 Beyond puzzles and problems, I find inspiration in the intricate details of nature. When I’m not tinkering with software projects, you’ll find me outdoors birdwatching, every sighting cultivates my focus and curiosity.
 
-I’m actively seeking an entry-level position where I can learn, grow, and contribute to impactful projects. Feel free to review my portfolio or contact me directly to discuss potential opportunities.
+I’m actively seeking an entry-level position where I can learn, grow, and contribute to innovative projects. Feel free to review my portfolio or contact me directly to discuss potential opportunities.
