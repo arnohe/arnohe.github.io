@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-## About me &emsp; [Projects](./projects.html) &emsp; [Education](./education.html)
+## About me &emsp; [Projects](./projects.html) &emsp;
 
 Hi there! I'm Arno Heirman, an aspiring software engineer and a graduate in electronics and ICT engineering.
 
