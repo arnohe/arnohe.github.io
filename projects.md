@@ -3,9 +3,7 @@ layout: default
 ---
 ## [Main](./) &emsp; Thesis &emsp;
 
-# Thesis
-
-## [Dermoscopic attribute detection](https://github.com/arnohe/dermoscopic-attribute-detection)
+# [Dermoscopic attribute detection](https://github.com/arnohe/dermoscopic-attribute-detection)
 The goal of my [master's thesis](https://lib.ugent.be/catalog/rug01:003150464) project is the detection of certain structures in dermoscopic images to aid in the diagnosis of melanoma.
 
 
